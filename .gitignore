@@ -1,0 +1,28 @@
+# PyInstaller
+build/
+*.manifest
+
+# Ship the exe as a GitHub Release asset, not in the repo
+dist/*.exe
+
+# Logs produced at runtime
+loadcell_data.csv
+dist/loadcell_data.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Scratch
+New Text Document.txt
