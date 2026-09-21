@@ -4,6 +4,8 @@
 
 Built with Python + PyQt6, packaged as a standalone `.exe` with PyInstaller.
 
+**[⬇ Download the latest .exe](https://github.com/thisisdibbo/MultiserialMonitor/releases/latest)**
+
 ![Multi Serial Monitor dashboard](docs/screenshot.png)
 
 ---
